@@ -32,7 +32,10 @@ This project focuses on analyzing hotel operations and revenue performance using
 - Cancellation and no-show rates have a noticeable impact on realization %.
 
 ## 🖼 Dashboard Preview
-![Hotel Dashboard](Images/hotel_dashboard.png)
+<h2>🖼 Dashboard Preview</h2>
+<p align="center">
+  <img src="Images/hotel_dashboard.png" alt="Hotel Operations & Revenue Dashboard" width="900">
+</p>
 
 ## 🚀 Outcome
 This dashboard enables hotel management to identify revenue leakage, optimize pricing strategies, and improve operational efficiency through data-driven insights.
